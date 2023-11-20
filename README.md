@@ -1,6 +1,7 @@
-Today I Learned
+# Today I Learned Record
 
 
-### JVM Study
+- [TIL Record 2023.11.20 -](TIL%20Record%202023.11.20%20-.md)
 
-![](JVM/JVM공부%20정리%20자료-미완성.pdf)
+
+
